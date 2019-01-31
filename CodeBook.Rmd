@@ -1,0 +1,13 @@
+---
+title: "CodeBook"
+output: html_document
+---
+The following variables are included in the tidy_data_set 
+
+"subject_id" - subject which activity has been recorded  
+
+"activity" - activity type of the list WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING  
+
+79 variables that store the mean and deviation of 79 variables  
+
+"tBodyAccmeanX" "tBodyAccmeanY" "tBodyAccmeanZ" "tGravityAccmeanX" "tGravityAccmeanY" "tGravityAccmeanZ" "tBodyAccJerkmeanX" "tBodyAccJerkmeanY" "tBodyAccJerkmeanZ" "tBodyGyromeanX" "tBodyGyromeanY" "tBodyGyromeanZ" "tBodyGyroJerkmeanX" "tBodyGyroJerkmeanY" "tBodyGyroJerkmeanZ" "tBodyAccMagmean" "tGravityAccMagmean" "tBodyAccJerkMagmean" "tBodyGyroMagmean" "tBodyGyroJerkMagmean" "fBodyAccmeanX" "fBodyAccmeanY" "fBodyAccmeanZ" "fBodyAccmeanFreqX" "fBodyAccmeanFreqY" "fBodyAccmeanFreqZ" "fBodyAccJerkmeanX" "fBodyAccJerkmeanY" "fBodyAccJerkmeanZ" "fBodyAccJerkmeanFreqX" "fBodyAccJerkmeanFreqY" "fBodyAccJerkmeanFreqZ" "fBodyGyromeanX" "fBodyGyromeanY" "fBodyGyromeanZ" "fBodyGyromeanFreqX" "fBodyGyromeanFreqY" "fBodyGyromeanFreqZ" "fBodyAccMagmean" "fBodyAccMagmeanFreq" "fBodyBodyAccJerkMagmean" "fBodyBodyAccJerkMagmeanFreq" "fBodyBodyGyroMagmean" "fBodyBodyGyroMagmeanFreq" "fBodyBodyGyroJerkMagmean" "fBodyBodyGyroJerkMagmeanFreq" "tBodyAccstdX" "tBodyAccstdY" "tBodyAccstdZ" "tGravityAccstdX" "tGravityAccstdY" "tGravityAccstdZ" "tBodyAccJerkstdX" "tBodyAccJerkstdY" "tBodyAccJerkstdZ" "tBodyGyrostdX" "tBodyGyrostdY" "tBodyGyrostdZ" "tBodyGyroJerkstdX" "tBodyGyroJerkstdY" "tBodyGyroJerkstdZ" "tBodyAccMagstd" "tGravityAccMagstd" "tBodyAccJerkMagstd" "tBodyGyroMagstd" "tBodyGyroJerkMagstd" "fBodyAccstdX" "fBodyAccstdY" "fBodyAccstdZ" "fBodyAccJerkstdX" "fBodyAccJerkstdY" "fBodyAccJerkstdZ" "fBodyGyrostdX" "fBodyGyrostdY" "fBodyGyrostdZ" "fBodyAccMagstd" "fBodyBodyAccJerkMagstd" "fBodyBodyGyroMagstd" "fBodyBodyGyroJerkMagstd"
